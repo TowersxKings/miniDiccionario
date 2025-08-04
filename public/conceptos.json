@@ -1,76 +1,91 @@
 [
   {
     "term": "Fuerza",
+    "category": "Mecánica clásica",
     "definicion_formal": "Interacción vectorial que, aplicada sobre un cuerpo, le comunica una aceleración (F = m·a) o produce deformación. Se mide en newtons (N).",
     "definicion_ninos": "Un empujón o jalón que hace que algo se mueva o cambie de forma."
   },
   {
     "term": "Gravedad",
+    "category": "Mecánica clásica",
     "definicion_formal": "Campo de fuerza entre masas; en la superficie terrestre produce una aceleración g ≈ 9.81 m/s² hacia el centro de la Tierra.",
     "definicion_ninos": "El imán invisible de la Tierra que siempre jala todo hacia abajo."
   },
   {
     "term": "Trabajo",
+    "category": "Mecánica clásica",
     "definicion_formal": "Energía transferida por una fuerza que desplaza un cuerpo.",
     "definicion_ninos": "El esfuerzo que haces cuando empujas algo y logras que se mueva."
   },
   {
     "term": "Energía",
+    "category": "Mecánica clásica",
     "definicion_formal": "Capacidad de realizar trabajo; se conserva en sistemas aislados.",
     "definicion_ninos": "El combustible invisible que hace que las cosas funcionen o se muevan."
   },
   {
     "term": "Energía Cinética",
+    "category": "Mecánica clásica",
     "definicion_formal": "Energía asociada al movimiento de un cuerpo.",
     "definicion_ninos": "Energía de lo que va corriendo, rodando o volando."
   },
   {
     "term": "Energía Potencial",
+    "category": "Mecánica clásica",
     "definicion_formal": "Energía almacenada por posición o configuración.",
     "definicion_ninos": "Energía 'guardada' por estar alto o comprimido/estirado."
   },
   {
     "term": "Movimiento",
+    "category": "Mecánica clásica",
     "definicion_formal": "Cambio de posición en el tiempo descrito por ecuaciones cinemáticas.",
     "definicion_ninos": "Cómo se desplazan las cosas de un lugar a otro."
   },
   {
     "term": "Movimiento Rectilíneo Uniforme (MRU)",
+    "category": "Mecánica clásica",
     "definicion_formal": "Trayectoria recta con velocidad constante (a = 0).",
     "definicion_ninos": "Se mueve derechito a la misma rapidez todo el tiempo."
   },
   {
     "term": "Movimiento Rectilíneo Acelerado (MRA)",
+    "category": "Mecánica clásica",
     "definicion_formal": "Trayectoria recta con aceleración constante.",
     "definicion_ninos": "Cada segundo se hace más rápido (o más lento)."
   },
   {
     "term": "Movimiento Circular",
+    "category": "Mecánica clásica",
     "definicion_formal": "Trayectoria de radio r con aceleración centrípeta a = v²/r.",
     "definicion_ninos": "Gira alrededor de un punto, como la rueda de una bici."
   },
   {
     "term": "Torsión",
+    "category": "Mecánica clásica",
     "definicion_formal": "Deformación angular producida por un momento de torsión sobre el eje.",
     "definicion_ninos": "Retorcer algo, como exprimir una toalla mojada."
   },
   {
     "term": "Par de Fuerzas (Torque)",
+    "category": "Mecánica clásica",
     "definicion_formal": "Momento que tiende a rotar un cuerpo: τ = r × F.",
     "definicion_ninos": "Dos empujones opuestos que hacen girar algo, como una llave en un tornillo."
   },
   {
     "term": "Palanca",
+    "category": "Mecánica clásica",
     "definicion_formal": "Máquina simple que amplifica fuerza: F1·d1 = F2·d2.",
     "definicion_ninos": "Barra que, apoyada en un punto, te ayuda a levantar cosas pesadas."
   },
   {
     "term": "Leva",
+    "category": "Mecánica clásica",
     "definicion_formal": "Perfil excéntrico que convierte giro continuo en movimiento alterno.",
     "definicion_ninos": "Rueda 'con joroba' que al girar sube y baja una varilla."
   },
   {
     "term": "Mecanismos de Movimiento",
+    "category": "Mecánica clásica",
     "definicion_formal": "Conjuntos de eslabones que transforman velocidad, dirección o tipo de movimiento.",
     "definicion_ninos": "Piezas que trabajan juntas para hacer avanzar la bici cuando pedaleas."
   }
