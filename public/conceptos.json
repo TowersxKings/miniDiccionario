@@ -231,6 +231,13 @@
   "definicion_ninos": "El gran empujón que, al actuar un tiempo, cambia lo rápido que va algo."
 },
 {
+  "term": "Impulso angular",
+  "category": "Física",
+  "tags": ["Mecánica clásica", "Rotación de cuerpos rígidos"],
+  "definicion_formal": "Cambio en el momento angular debido a un torque aplicado durante un intervalo Δt:\n\\(J = \\int \\tau\\,dt = \\Delta L\\).",
+  "definicion_ninos": "El ‘empujón’ que hace que cambie la ‘fuerza de giro’ de algo."
+},
+{
   "term": "Colisiones elásticas e inelásticas",
   "category": "Física",
 "tags": ["Mecánica clásica, Conservación lineal"],
