@@ -1,106 +1,400 @@
 [
   {
+    "term": "Física",
+    "category": "Física",
+    "tags": [],
+    "definicion_formal": "La física es la ciencia fundamental que investiga materia, energía, espacio y tiempo y cómo interactúan. Lo hace a través de la observación, la experimentación y el razonamiento matemático, con el fin de descubrir leyes universales capaces de describir y predecir los fenómenos de la naturaleza, desde la escala subatómica hasta el cosmos.",
+    "definicion_ninos": "La ciencia que estudia cómo funcionan el mundo y el universo, desde lo muy pequeño hasta lo muy grande."
+  },
+  {
+    "term": "Mecánica clásica",
+    "category": "Física",
+    "tags": [],
+    "definicion_formal": "Rama de la física que describe el movimiento de los cuerpos macroscópicos y las fuerzas que actúan sobre ellos en el dominio no relativista y fuera del ámbito cuántico. Se fundamenta en los postulados de Newton, los principios de conservación (energía, cantidad de movimiento y momento angular) y el cálculo diferencial, y permite predecir la trayectoria y dinámica de sistemas desde partículas puntuales hasta sólidos rígidos y fluidos continuos.",
+    "definicion_ninos": "Es la parte de la ciencia que explica por qué y cómo se mueven las cosas que vemos todos los días—como una pelota, un automóvil o la Luna—usando reglas sencillas descubiertas por Isaac Newton: si empujas, algo se mueve; si algo ya va rápido, sigue hasta que otra cosa lo detenga; y cada acción tiene una reacción."
+  },
+  {
     "term": "Fuerza",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/fuerza.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica"],
     "definicion_formal": "Interacción vectorial que, aplicada sobre un cuerpo, le comunica una aceleración (F = m·a) o produce deformación. Se mide en newtons (N).",
     "definicion_ninos": "Un empujón o jalón que hace que algo se mueva o cambie de forma."
   },
   {
     "term": "Gravedad",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/Gravedad.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica"],
     "definicion_formal": "Campo de fuerza entre masas; en la superficie terrestre produce una aceleración g ≈ 9.81 m/s² hacia el centro de la Tierra.",
     "definicion_ninos": "El imán invisible de la Tierra que siempre jala todo hacia abajo."
   },
   {
+  "term": "Potencia",
+  "category": "Física",
+  "tags": ["Mecánica clásica", "Trabajo y energía"],
+  "definicion_formal": "Rapidez de transferencia de energía o de realización de trabajo:\nP = dW/dt;\nunidad SI watt (W = J/s).",
+  "definicion_ninos": "Qué tan rápido haces el trabajo o transfieres energía, como cuánta fuerza aplicas en cierto tiempo."
+  },
+  {
     "term": "Trabajo",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/trabajo.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Trabajo y energía"],
     "definicion_formal": "Energía transferida por una fuerza que desplaza un cuerpo.",
     "definicion_ninos": "El esfuerzo que haces cuando empujas algo y logras que se mueva."
   },
   {
     "term": "Energía",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/energia.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Trabajo y energía"],
     "definicion_formal": "Capacidad de realizar trabajo; se conserva en sistemas aislados.",
     "definicion_ninos": "El combustible invisible que hace que las cosas funcionen o se muevan."
   },
   {
     "term": "Energía Cinética",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/Energia cinetica.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Trabajo y energía"],
     "definicion_formal": "Energía asociada al movimiento de un cuerpo.",
     "definicion_ninos": "Energía de lo que va corriendo, rodando o volando."
   },
   {
     "term": "Energía Potencial",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/Energia potencial.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Trabajo y energía"],
     "definicion_formal": "Energía almacenada por posición o configuración.",
     "definicion_ninos": "Energía 'guardada' por estar alto o comprimido/estirado."
   },
   {
     "term": "Movimiento",
-    "category": "Mecánica clásica",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Cinemática"],
     "definicion_formal": "Cambio de posición en el tiempo descrito por ecuaciones cinemáticas.",
     "definicion_ninos": "Cómo se desplazan las cosas de un lugar a otro."
   },
   {
     "term": "Movimiento Rectilíneo Uniforme (MRU)",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/M.R.U..png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Cinemática"],
     "definicion_formal": "Trayectoria recta con velocidad constante (a = 0).",
     "definicion_ninos": "Se mueve derechito a la misma rapidez todo el tiempo."
   },
   {
     "term": "Movimiento Rectilíneo Acelerado (MRA)",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/M.R.A..png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Cinemática"],
     "definicion_formal": "Trayectoria recta con aceleración constante.",
     "definicion_ninos": "Cada segundo se hace más rápido (o más lento)."
   },
   {
     "term": "Movimiento Circular",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/M.C.U..png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Cinemática"],
     "definicion_formal": "Trayectoria de radio r con aceleración centrípeta a = v²/r.",
     "definicion_ninos": "Gira alrededor de un punto, como la rueda de una bici."
   },
   {
     "term": "Torsión",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/TORSION.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Rotación y equilibrio estático"],
     "definicion_formal": "Deformación angular producida por un momento de torsión sobre el eje.",
     "definicion_ninos": "Retorcer algo, como exprimir una toalla mojada."
   },
   {
     "term": "Par de Fuerzas (Torque)",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/Par de fuerzas.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Rotación y equilibrio estático"],
     "definicion_formal": "Momento que tiende a rotar un cuerpo: τ = r × F.",
     "definicion_ninos": "Dos empujones opuestos que hacen girar algo, como una llave en un tornillo."
   },
   {
     "term": "Palanca",
-    "category": "Mecánica clásica",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Máquinas simples y mecanismos, Rotación y equilibrio estático"],
     "definicion_formal": "Máquina simple que amplifica fuerza: F1·d1 = F2·d2.",
-    "image": "/imagenes/Palanca.png",
     "definicion_ninos": "Barra que, apoyada en un punto, te ayuda a levantar cosas pesadas."
   },
   {
     "term": "Leva",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/Leva.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Máquinas simples y mecanismos"],
     "definicion_formal": "Perfil excéntrico que convierte giro continuo en movimiento alterno.",
     "definicion_ninos": "Rueda 'con joroba' que al girar sube y baja una varilla."
   },
   {
     "term": "Mecanismos de Movimiento",
-    "category": "Mecánica clásica",
-    "image": "/imagenes/Mecanismos de movimiento.png",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Máquinas simples y mecanismos"],
     "definicion_formal": "Conjuntos de eslabones que transforman velocidad, dirección o tipo de movimiento.",
     "definicion_ninos": "Piezas que trabajan juntas para hacer avanzar la bici cuando pedaleas."
-  }
+  },
+  {
+    "term": "1.ª ley de Newton (inercia)",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica"],
+    "definicion_formal": "Un cuerpo mantiene su estado de reposo o de movimiento rectilíneo uniforme a menos que una fuerza externa resulte distinta de cero actúe sobre él.",
+    "definicion_ninos": "Si algo está quieto seguirá quieto y si ya va derechito seguirá igual, salvo que lo empujes o lo frenes."
+  },
+  {
+    "term": "2.ª ley de Newton (dinámica)",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica"],
+    "definicion_formal": "La aceleración de un cuerpo es proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su masa: F = m a.",
+    "definicion_ninos": "Cuanto más fuerte empujes (fuerza) y más liviano sea el objeto (poca masa), más rápido cambiará su velocidad."
+  },
+  {
+    "term": "3.ª ley de Newton (acción-reacción)",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica"],
+    "definicion_formal": "Para cada acción existe una reacción de igual magnitud y sentido opuesto; las fuerzas aparecen en pares sobre cuerpos distintos.",
+    "definicion_ninos": "Cuando empujas una pared, la pared te empuja a ti con la misma fuerza pero al revés."
+  },
+  {
+    "term": "Masa",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica"],
+    "definicion_formal": "Medida escalar de la inercia de un cuerpo, es decir, de su resistencia a cambiar su estado de movimiento; su unidad es el kilogramo (kg).",
+    "definicion_ninos": "“Lo pesado” que es algo para empujarlo o detenerlo."
+  },
+  {
+    "term": "Aceleración",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica, Cinemática"],
+    "definicion_formal": "Magnitud vectorial que indica la variación de la velocidad respecto al tiempo: a = dv/dt (m s⁻²).",
+    "definicion_ninos": "Lo rápido que cambia la velocidad: si vas en bici y pedaleas fuerte, “aceleras”."
+  },
+  {
+    "term": "Fricción",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica"],
+    "definicion_formal": "Fuerza paralela a la superficie de contacto que se opone al deslizamiento: estática (mantiene el reposo) y cinética (actúa durante el movimiento). Su módulo máximo estático es Fₙₑₛₜ ≤ μₛ N y el cinético es Fₖ = μₖ N.",
+    "definicion_ninos": "El “rozamiento” que sientes cuando deslizas un libro sobre la mesa: hace difícil moverlo y lo frena."
+  },
+  {
+    "term": "Fuerza normal",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica"],
+    "definicion_formal": "Fuerza de reacción perpendicular a la superficie que un cuerpo ejerce sobre otro en contacto, igual en magnitud y opuesta a la componente perpendicular del peso cuando no hay aceleración vertical.",
+    "definicion_ninos": "El “empujón” que el suelo hace hacia arriba para que no atravieses el piso."
+  },
+  {
+    "term": "Tensión (en cuerdas)",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica, Fuerzas en cuerdas, Trabajo y energía"],
+    "definicion_formal": "Fuerza interna que se transmite a lo largo de un cable, cuerda o cadena ideal (inextensible y de masa despreciable). En equilibrio es igual y opuesta a las fuerzas aplicadas en sus extremos.",
+    "definicion_ninos": "El jalón que sientes en la cuerda cuando sostienes un balde colgado: la cuerda “tira” hacia arriba."
+  },
+  {
+    "term": "Vector de Desplazamiento",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Cinemática"],
+    "definicion_formal": "Magnitud vectorial que une la posición inicial de un cuerpo con su posición final; indica la distancia recorrida en línea recta y su dirección. Se expresa como 𝑟⃗ = 𝑟⃗_f − 𝑟⃗_i y sus componentes se miden en metros (m).",
+    "definicion_ninos": "Flecha que muestra desde dónde partió algo hasta dónde llegó y hacia dónde apunta."
+  },
+  {
+    "term": "Vector de Velocidad",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Cinemática"],
+    "definicion_formal": "Derivada temporal del vector posición: 𝑣⃗ = d𝑟⃗/dt. Describe la rapidez y la dirección con que cambia la posición de un cuerpo. Se mide en metros por segundo (m/s).",
+    "definicion_ninos": "Flecha que dice qué tan rápido y hacia dónde se mueve algo."
+  },
+  {
+    "term": "Vector de Aceleración",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Dinámica, Cinemática"],
+    "definicion_formal": "Derivada temporal del vector velocidad: 𝑎⃗ = d𝑣⃗/dt. Indica la variación de la velocidad en módulo o dirección por unidad de tiempo. Se mide en metros por segundo al cuadrado (m/s²).",
+    "definicion_ninos": "Flecha que cuenta cuán rápido está cambiando la velocidad: si la bici ‘acelera’, esta flecha crece."
+  },
+  {
+    "term": "Movimiento de Proyectiles",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Cinemática"],
+    "definicion_formal": "Movimiento bidimensional de un cuerpo lanzado con una velocidad inicial 𝑣₀ que solo está sometido a la aceleración gravedad g (se desprecia la resistencia del aire). Las ecuaciones paramétricas son: x(t)=𝑣₀·cosθ·t,   y(t)=𝑣₀·sinθ·t − ½·g·t².",
+    "definicion_ninos": "Trayectoria curva que sigue una pelota cuando la lanzas al aire: sube, se frena, baja y cae."
+  },
+  {
+    "term": "Movimiento Relativo",
+    "category": "Física",
+    "tags": ["Mecánica clásica, Cinemática"],
+    "definicion_formal": "Descripción cinemática que compara posiciones, velocidades y aceleraciones medidas desde distintos sistemas de coordenadas en traslación o rotación. La velocidad relativa entre dos marcos inerciales A y B es 𝑣⃗_P/A = 𝑣⃗_P/B + 𝑣⃗_B/A.",
+    "definicion_ninos": "Cómo cambia lo que ves que se mueve dependiendo desde dónde lo mires: dentro de un tren en marcha, una pelota puede parecer quieta, pero desde la calle la ves moverse con el tren."
+  },
+  {
+  "term": "Cantidad de movimiento lineal",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Conservación lineal"],
+  "definicion_formal": "Magnitud vectorial definida como el producto de la masa por la velocidad de un cuerpo: \\(\\mathbf{p} = m\\mathbf{v}\\). Tiene unidad SI kg·m/s y su dirección coincide con la de \\(\\mathbf{v}\\).",  
+  "definicion_ninos": "La flecha que muestra cuán fuerte y hacia dónde algo se mueve."
+},
+{
+  "term": "Impulso",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Conservación lineal"],
+  "definicion_formal": "Vectorialmente, el impulso de una fuerza neta sobre un intervalo \\([t_i,t_f]\\) es \\(\\mathbf{I} = \\int_{t_i}^{t_f} \\mathbf{F}\\,dt = \\Delta \\mathbf{p}\\). Se mide en N·s.",  
+  "definicion_ninos": "El gran empujón que, al actuar un tiempo, cambia lo rápido que va algo."
+},
+{
+  "term": "Impulso angular",
+  "category": "Física",
+  "tags": ["Mecánica clásica", "Rotación de cuerpos rígidos"],
+  "definicion_formal": "Cambio en el momento angular debido a un torque aplicado durante un intervalo Δt:\n\\(J = \\int \\tau\\,dt = \\Delta L\\).",
+  "definicion_ninos": "El ‘empujón’ que hace que cambie la ‘fuerza de giro’ de algo."
+},
+{
+  "term": "Colisiones elásticas e inelásticas",
+  "category": "Física",
+"tags": ["Mecánica clásica, Conservación lineal"],
+  "definicion_ninos": "Choque donde las pelotas rebotan sin perder ‘fuerza de movimiento’ (elásticas), o donde paran y se pegan o deforman (inelásticas)."
+},
+{
+  "term": "Cinemática rotacional",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Rotación de cuerpos rígidos"],
+  "definicion_formal": "Describe el movimiento angular con: desplazamiento \\(\\theta\\) (rad), velocidad angular \\(\\omega = d\\theta/dt\\) (rad/s) y aceleración angular \\(\\alpha = d\\omega/dt\\) (rad/s²).",  
+  "definicion_ninos": "Como mideís lo rápido que gira algo (ángulo), cuánto gira por segundo (velocidad) y cómo acelera el giro."
+},
+{
+  "term": "Momento de inercia",
+  "category": "Física",
+"tags": ["Mecánica clásica, Rotación de cuerpos rígidos"],
+  "definicion_ninos": "Lo difícil que es poner a girar algo: depende de su masa y de cuánto está lejos del centro."
+},
+{
+  "term": "Energía cinética de rotación",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Rotación de cuerpos rígidos"],
+  "definicion_formal": "Energía asociada al movimiento rotacional: \\(K_{rot} = \\tfrac12 I \\omega^2\\).",  
+  "definicion_ninos": "La ‘fuerza’ que tiene un objeto al girar, igual que al moverlo en línea pero para rotación."
+},
+{
+  "term": "Momento angular y su conservación",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Rotación de cuerpos rígidos"],
+  "definicion_formal": "Para una partícula, \\(\\mathbf{L}=\\mathbf{r}\\times\\mathbf{p}\\). Para un rígido alrededor de eje fijo, \\(L=I\\omega\\). Si no actúa par externo neto, \\(L\\) total se conserva.",  
+  "definicion_ninos": "La ‘fuerza de giro’ que lleva algo y que no cambia si nadie lo empuja para rotarlo."
+},
+{
+  "term": "Trabajo y potencia en rotación",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Rotación de cuerpos rígidos"],
+  "definicion_formal": "Trabajo realizado por un torque: \\(W = \\int \\tau \\, d\\theta\\). Potencia instantánea: \\(P = \\tau \\, \\omega\\).",
+  "definicion_ninos": "Qué tanto ‘empuja’ rota algo y cuán rápido lo hace."
+},
+{
+  "term": "Rodadura sin deslizamiento",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Rotación de cuerpos rígidos"],
+  "definicion_formal": "Condición para que un cilindro o rueda ruede sin deslizar: \\(v_{CM}=\\omega R\\), donde \\(v_{CM}\\) es la velocidad del centro de masa y \\(R\\) el radio.",  
+  "definicion_ninos": "Cuando una rueda gira y avanza juntos sin patinar: lo que ves en una bicicleta bien usada."
+},
+{
+  "term": "Equilibrio traslacional y rotacional",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Equilibrio y elasticidad"],
+  "definicion_formal": "Un cuerpo rígido está en equilibrio estático si la suma de fuerzas externas es cero (\\(\\sum \\mathbf{F}=0\\)) y la suma de torques externos es cero (\\(\\sum \\tau=0\\)).",  
+  "definicion_ninos": "Si no se cae ni gira, es porque nadie lo empuja ni lo hace dar vueltas."
+},
+{
+  "term": "Centro de masa y centro de gravedad",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Equilibrio y elasticidad"],
+  "definicion_formal": "El centro de masa es la posición media ponderada de todas las masas; el centro de gravedad es el punto donde actúa el peso de manera equivalente.",  
+  "definicion_ninos": "El punto donde podrías equilibrar un objeto con un dedo."
+},
+{
+  "term": "Plano inclinado",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Equilibrio y elasticidad"],
+  "definicion_formal": "Máquina simple que reduce la fuerza necesaria para levantar un peso: la ventaja mecánica es \\(1/\\sin\\theta\\), siendo \\(\\theta\\) el ángulo de inclinación.",  
+  "definicion_ninos": "Una rampa que hace más fácil subir cosas pesadas."
+},
+{
+  "term": "Cuña",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Equilibrio y elasticidad"],
+  "definicion_formal": "Máquina simple formada por dos planos inclinados; su ventaja mecánica es la relación entre longitud y grosor de la cuña.",  
+  "definicion_ninos": "Un triángulo que al empujarlo separa o corta materiales."
+},
+{
+  "term": "Tornillo",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Equilibrio y elasticidad"],
+  "definicion_formal": "Máquina simple helicoidal; la ventaja mecánica es \\(2\\pi r/p\\), con \\(r\\) radio y \\(p\\) paso de rosca.",  
+  "definicion_ninos": "Como un plano inclinado enrollado que al girarlo sube o aprieta cosas."
+},
+{
+  "term": "Esfuerzo, deformación y módulos elásticos",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Equilibrio y elasticidad"],
+  "definicion_formal": "La tensión (stress) es la fuerza por unidad de área; la deformación (strain) es el cambio relativo de longitud; los módulos de Young, corte y volumétrico relacionan estrés y strain para distintos tipos de deformación.",  
+  "definicion_ninos": "Lo duro que es algo para estirarlo o comprimirlo, y cuánto cambia de forma."
+},
+{
+  "term": "Movimiento armónico simple (MAS)",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Oscilaciones y ondas mecánicas"],
+  "definicion_formal": "Solución a \\(d^2x/dt^2 + (k/m)x=0\\); posición \\(x(t)=A\\cos(\\omega t+\\phi)\\), con \\(\\omega=\\sqrt{k/m}\\).",  
+  "definicion_ninos": "Va y viene como un columpio o un resorte que sube y baja."
+},
+{
+  "term": "Energía en el MAS; péndulo simple y torsional",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Oscilaciones y ondas mecánicas"],
+  "definicion_formal": "Energía total constante: \\(E=\\tfrac12kA^2\\). En péndulo, \\(\\omega=\\sqrt{g/L}\\); en torsional, \\(\\omega=\\sqrt{\\kappa/I}\\).",  
+  "definicion_ninos": "La ‘fuerza’ que tiene cuando sube y baja, igual que el tirón y aflojón de un columpio o un resorte giratorio."
+},
+{
+  "term": "Amortiguamiento y resonancia",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Oscilaciones y ondas mecánicas"],
+  "definicion_formal": "MAS con fricción: \\(m d^2x/dt^2 + b dx/dt + kx=0\\). Resonancia ocurre cuando la frecuencia de forzamiento coincide con \\(\\omega_0=\\sqrt{k/m}\\).",  
+  "definicion_ninos": "Cuando un columpio se frena solito y cuando lo empujas al ritmo justo, ¡se balancea muy fuerte!"
+},
+{
+  "term": "Ondas: pulso, λ, frecuencia y velocidad",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Oscilaciones y ondas mecánicas"],
+  "definicion_formal": "Onda es perturbación que transporta energía. Longitud de onda \\(\\lambda\\), frecuencia \\(f\\), velocidad \\(v=\\lambda f\\).",  
+  "definicion_ninos": "Las olas son ‘arrugas’ que viajan: qué tan largas son, cuántas pasan por segundo y qué tan rápido van."
+},
+{
+  "term": "Ondas transversales y longitudinales; superposición y batidos",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Oscilaciones y ondas mecánicas"],
+  "definicion_formal": "En transversales, la perturbación es perpendicular a \\(v\\); en longitudinales, paralela. Superposición: suma de dos ondas; batido: variación de amplitud a frecuencia \\(|f_1-f_2|\\).",  
+  "definicion_ninos": "Como dos olas que chocan y crean figuras nuevas, y el temblor que oyes cuando dos sonidos casi iguales se mezclan."
+},
+{
+  "term": "Presión y principios de Pascal y Arquímedes",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Mecánica de fluidos"],
+  "definicion_formal": "Presión: \\(p=F/A\\). Pascal: variación de presión en fluido incompr. se transmite igual. Arquímedes: fuerza de flotación igual al peso del volumen de fluido desplazado.",  
+  "definicion_ninos": "La presión es el empujón por área. En un líquido, si aprietas en un lado se siente en todo, y todo lo que empuja para arriba es lo que mueve un barco."
+},
+{
+  "term": "Ecuación de Bernoulli e hidrodinámica",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Mecánica de fluidos"],
+  "definicion_formal": "Para flujo incompresible y sin rozamiento: \\(p+\\tfrac12\\rho v^2+\\rho gh=\\text{constante}\\).",  
+  "definicion_ninos": "Donde el agua va más rápido baja su presión, como ver el chorro de la manguera."
+},
+{
+  "term": "Densidad",
+  "category": "Física",
+  "tags": ["Mecánica clásica", "Mecánica de fluidos"],
+  "definicion_formal": "Magnitud escalar que mide la masa por unidad de volumen de un material: \\(\\rho = m/V\\); unidad SI kg/m³.",
+  "definicion_ninos": "Qué tan “pesado” es algo comparado con su tamaño, como cuánta masa hay en un espacio."
+},
+{
+  "term": "Viscosidad",
+  "category": "Física",
+  "tags": ["Mecánica clásica, Mecánica de fluidos"],
+  "definicion_formal": "Medida de la resistencia interna de un fluido al flujo; fuerza viscosa entre capas adyacentes (unidades Pa·s).",
+  "definicion_ninos": "El ‘espesor’ que hace al aceite fluir lento y al agua más libre."
+},
+{
+  "term": "Flujo laminar y turbulento",
+  "category": "Física",
+  "tags": ["Mecánica clásica,Mecánica de fluidos"],
+  "definicion_formal": "Regímenes de movimiento del fluido según el número de Reynolds Re=ρvL/μ: laminar si Re<2300, transición entre 2300–4000, turbulento si Re>4000.",
+  "definicion_ninos": "Cuando el agua va suave y ordenada (laminar) o con remolinos y revoltijo (turbulento)."
+}
+
 ]
