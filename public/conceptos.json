@@ -398,6 +398,7 @@
       "Mecánica clásica",
       "Rotación de cuerpos rígidos"
     ],
+    "definicion_formal":"Medida de qué tan difícil es hacer que un objeto empiece a girar o cambie su giro alrededor de un eje. Aumenta cuando el objeto tiene más masa y, sobre todo, cuando esa masa está más alejada del eje. En rotación con eje fijo, el par (momento de fuerza) necesario para acelerar el giro es proporcional al momento de inercia, y la energía de giro es ½·I·(velocidad angular)². Su unidad en el SI es kg·m².",
     "definicion_ninos": "Lo difícil que es poner a girar algo: depende de su masa y de cuánto está lejos del centro.",
     "ejemplo_ninos": "Una barra con pesas en las puntas cuesta más girarla que con las pesas cerca del centro."
   },
